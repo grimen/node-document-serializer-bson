@@ -1,5 +1,5 @@
 
-var Serializer = require('../../node-document-serializer');
+var Serializer = require('node-document-serializer');
 
 module.exports = Serializer.Spec('BSON', {
   module: require('..'),
